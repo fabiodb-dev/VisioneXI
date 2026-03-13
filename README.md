@@ -2,6 +2,10 @@
 
 Computer vision system for detecting and tracking football players from match footage.
 
+## Demo
+
+![Demo](data/output/tracking/demo.gif)
+
 ## Overview
 
 The goal is to build a pipeline capable of extracting useful information from match footage, such as player positions and movement patterns.
