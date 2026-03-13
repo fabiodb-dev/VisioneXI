@@ -4,7 +4,7 @@ Computer vision system for detecting and tracking football players from match fo
 
 ## Demo
 
-![Demo](data/output/tracking/demo.gif)
+![Demo](demo/demo.gif)
 
 ## Overview
 
